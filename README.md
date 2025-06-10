@@ -1,2 +1,2 @@
-![image](image1.jpg)
-![image](picture2.jpg)
+![image](image1.png)
+![image](image2.png)
