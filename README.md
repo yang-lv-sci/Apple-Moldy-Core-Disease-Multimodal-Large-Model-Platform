@@ -1,2 +1,4 @@
-![image](image1.png)
-![image](image2.png)
+<p align="center">
+  <img src="image1.png"/>
+  <img src="image2.png"/>
+</p>
